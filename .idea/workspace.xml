@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="393d3b15-21a6-4232-9fbd-8cd8da9eeaf1" name="Changes" comment="first commit JavaBank">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/contas/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/contas/CriaConta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="393d3b15-21a6-4232-9fbd-8cd8da9eeaf1" name="Changes" comment="implementa classe CriaConta">
+      <change afterPath="$PROJECT_DIR$/src/main/java/contas/TesteReferencia.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TesteReferencia">
     <configuration name="CriaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="contas.CriaConta" />
       <module name="JavaBank" />
@@ -58,8 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TesteReferencia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contas.TesteReferencia" />
+      <module name="JavaBank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="contas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TesteReferencia" />
         <item itemvalue="Application.CriaConta" />
       </list>
     </recent_temporary>
@@ -80,7 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682614975127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cria classe modelo Conta">
+      <created>1682616445927</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682616445927</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implementa classe CriaConta">
+      <created>1682616476363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682616476363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit JavaBank" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit JavaBank" />
+    <MESSAGE value="cria classe modelo Conta" />
+    <MESSAGE value="implementa classe CriaConta" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementa classe CriaConta" />
   </component>
 </project>
