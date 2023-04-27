@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="393d3b15-21a6-4232-9fbd-8cd8da9eeaf1" name="Changes" comment="cria classe TesteReferencia">
-      <change afterPath="$PROJECT_DIR$/src/main/java/contas/TesteMetodo.java" afterDir="false" />
+    <list default="true" id="393d3b15-21a6-4232-9fbd-8cd8da9eeaf1" name="Changes" comment="cria classe TesteMetodo e implementa metodo depositar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/contas/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contas/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/contas/TesteMetodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/contas/TesteMetodo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682617102476</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cria classe TesteMetodo e implementa metodo depositar">
+      <created>1682618050843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682618050843</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +151,7 @@
     <MESSAGE value="cria classe modelo Conta" />
     <MESSAGE value="implementa classe CriaConta" />
     <MESSAGE value="cria classe TesteReferencia" />
-    <option name="LAST_COMMIT_MESSAGE" value="cria classe TesteReferencia" />
+    <MESSAGE value="cria classe TesteMetodo e implementa metodo depositar" />
+    <option name="LAST_COMMIT_MESSAGE" value="cria classe TesteMetodo e implementa metodo depositar" />
   </component>
 </project>
